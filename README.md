@@ -1,4 +1,4 @@
-The repository consists of a .cpp file having code for a Snake Game.
+The repository consists of a .cpp file having the code for a Snake Game.
 
 The code uses windows.h sleep function to control the speed of snake movement, The code also uses conio.h to handle the input/output for snakes movement using W, A, S, D keys.
 

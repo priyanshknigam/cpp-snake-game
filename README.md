@@ -1,3 +1,4 @@
+# Snake Game (C++)
 The repository consists of a .cpp file having the code for a Snake Game.
 
 The code uses windows.h sleep function to control the speed of snake's movement, The code also uses conio.h to handle the input/output for snake's movement using W, A, S, D keys.
